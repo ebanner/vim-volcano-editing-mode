@@ -1,2 +1,3 @@
-# vim-volcano-editing-mode
+# vim-volcano-editing-mode 🌋
+
 Volcano editing mode for vim
